@@ -6,5 +6,5 @@ Para cada grupo começar a desenvolver suas respectivas partes, o líder do grup
 
 Caso algum dos conceitos citados não seja do conhecimento de algum membro, é **fundamental** que os conceitos básicos de Git e GitHub sejam estudados/revisados antes de realizar contribuições.
 
-# Atenção!!!
+# Atenção!!
 Para os grupos que realizarão trabalhos em paralelo, é importante que se atentem ao estado atual da upstream. Caso novos commits tenham sido feitos ou pull requests de outros grupos aceitos, é necessário que os forks dos grupos que ainda estão trabalhando sejam sincronizados antes de fazer pull requests.
